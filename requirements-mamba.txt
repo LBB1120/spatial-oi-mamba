@@ -1,0 +1,4 @@
+# Use only after installing a PyTorch build compatible with your CUDA environment.
+-r requirements.txt
+causal-conv1d
+mamba-ssm

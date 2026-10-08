@@ -1,0 +1,26 @@
+# Python environments, caches, and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Raw study data: share only if authorized and explicitly intended
+data/*.xlsx
+data/*.xls
+data/*.xlsm
+data/*.parquet
+
+# Generated models, metrics, maps, and attribution plots
+oi_mamba_repeated_cv_results/
+oi_mamba_explainability_results/
+results/
+*.pt
+*.pth
+*.joblib
