@@ -23,6 +23,7 @@ The explainability script implements:
 ```text
 spatial-oi-mamba/
 ├── README.md
+├── LICENSE
 ├── requirements.txt
 ├── requirements-mamba.txt
 ├── .gitignore
