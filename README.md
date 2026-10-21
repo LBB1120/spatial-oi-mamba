@@ -41,7 +41,7 @@ spatial-oi-mamba/
 Python 3.10+ is recommended. Model training requires **PyTorch** and a working **`mamba-ssm`** installation. An NVIDIA CUDA environment is recommended; check the official installation requirements of your selected PyTorch, `causal-conv1d`, and `mamba-ssm` versions.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/spatial-oi-mamba.git
+git clone https://github.com/LBB1120/spatial-oi-mamba.git
 cd spatial-oi-mamba
 python -m venv .venv
 # Activate the environment using the appropriate command for your operating system.
@@ -187,4 +187,5 @@ If you use the code in research, cite the associated manuscript once its bibliog
 
 *Order-Insensitive Mamba with Spatial Encoding and Multilevel Explanations for Mineralization-Related Geochemical Anomaly Identification*.
 
-No software license has been selected here. **Choose and add an appropriate `LICENSE` file before advertising the repository as open-source.**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
